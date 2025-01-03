@@ -1,0 +1,7 @@
+=======================================================================================================================================================================================
+== Test 2: list_main: Print then Exit
+== Print the empty list and exit
+Running test...
+Expected output is in file 'test_results/raw/lab_02-2-expected.tmp'
+Actual output is in file 'test_results/raw/lab_02-2-actual.tmp'
+Test PASSED
